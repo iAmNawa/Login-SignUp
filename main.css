@@ -1,33 +1,5 @@
 body {
-	background-color: #2C3E50;
-	color: white;
-	text-align: center;
-	font-family: avenir;
-	font-size: 30px;
+    background-color: #2C3E50;
 }
 input {
-	width: 250px;
-	height: 50px;
-	font-size: 30px;
-	font-family: avenir;
-}
-button {
-	background-color: #2ECC71;
-	height: 45px;
-	width: 260px;
-	color: white;
-	border: none;
-	font-size: 25px;
-	margin-top: 5px;
-}
-button:hover {
-	cursor: pointer;
-}
-#register:hover {
-	background-color: white;
-	color: #2ECC71;
-}
-a {
-	text-decoration: none;
-	color: #2ECC71;
 }
